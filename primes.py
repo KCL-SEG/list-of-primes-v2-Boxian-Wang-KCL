@@ -12,7 +12,7 @@ def primes(number_of_primes):
             if n % i == 0:
                 isP = False
         if isP:
-            list.append(n) 
+            l.append(n) 
             
           
         n += 1       
